@@ -76,7 +76,7 @@ Run lint, format check, type-check, and relevant tests, then verify the change i
 - Log structured JSON to stdout, and never log user data.
 - `NEXT_PUBLIC_` variables are inlined at build time; everything else is read at runtime.
 - Don't rely on Vercel-only features.
-- GitHub Actions runs lint, format check, type-check, unit tests, build, and e2e tests; all must pass.
+- GitHub Actions runs lint, format check, type-check, unit tests, and build; all must pass. Run e2e tests locally.
 
 ## Testing
 

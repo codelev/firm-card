@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+coverage
+data
+package-lock.json
+next-env.d.ts
+playwright-report
+test-results
+src/components/ui
+specs.md

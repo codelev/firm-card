@@ -7,9 +7,15 @@ Turn your paper business card into an installable app.
 3. Install your card and share it by QR, even offline.
 4. Scan cards other people give you to save their contacts.
 
+## Domain
+
 ![Structured Event Storming](domain.png)
 
-Domain spec: [specs.md](specs.md). Agent instructions: [AGENTS.md](AGENTS.md).
+Domain specs: [specs.md](specs.md). Agent instructions: [AGENTS.md](AGENTS.md).
+
+## Screenshots
+
+![Application](app.png)
 
 ## Implementation tradeoffs
 
